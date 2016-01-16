@@ -1,5 +1,3 @@
-import Foundation
-
 class Node<E> {
   let x: E
   let next: Node?
